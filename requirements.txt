@@ -1,0 +1,30 @@
+# Voice Emotion AI Dependencies
+# FallenGodfather - Final Year Project
+
+# Core UI
+kivy>=2.1.0
+kivymd>=1.1.1
+
+# Audio
+pyaudio>=0.2.11
+librosa>=0.9.2
+soundfile>=0.11.0
+
+# Machine Learning
+tensorflow>=2.10.0
+scikit-learn>=1.1.0
+numpy>=1.21.0
+
+# Spotify
+spotipy>=2.22.1
+
+# Utils
+requests>=2.28.0
+joblib>=1.2.0
+
+# Mobile build
+buildozer>=1.4.0
+cython>=0.29.0
+
+# Optional performance
+psutil>=5.9.0
